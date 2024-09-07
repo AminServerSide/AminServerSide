@@ -1,3 +1,4 @@
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 <h2>Hi There! I'm Mohammad Amin🖐</h2>
 
 <h3>👨‍💻 &nbsp; About Me</h3>
