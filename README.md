@@ -4,7 +4,7 @@
 <h3>👨‍💻 &nbsp; About Me</h3>
 
 - 🎓 &nbsp; Student of IT Subject In University
-- 🌱 &nbsp; Learning node.js(backend)
+- 🌱 &nbsp; Learning backend
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
