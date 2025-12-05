@@ -53,7 +53,7 @@
   <a href="https://t.me/AMINN004/">
     <img src="https://img.shields.io/badge/Telegram-@AMINN004-blue?style=flat&logo=telegram" />
   </a>
-  <a href="www.linkedin.com/in/mohammadamin-nourmohammadi">
+  <a href="www.linkedin.com/in/amindev2004">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
